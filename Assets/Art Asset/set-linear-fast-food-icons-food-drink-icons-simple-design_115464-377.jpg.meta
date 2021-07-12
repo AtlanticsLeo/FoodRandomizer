@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 6e9bc8e9b7495ad42b640c52bd2b0367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2341971437522493622
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_0
+  - first:
+      213: -8603509720394389543
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_1
+  - first:
+      213: -4566600508516977439
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_2
+  - first:
+      213: -590892641883196841
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_3
+  - first:
+      213: 2222376537391840298
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_4
+  - first:
+      213: 5111852011347869049
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_5
+  - first:
+      213: 8983636933650212476
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_6
+  - first:
+      213: -4404136387686161889
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_7
+  - first:
+      213: 5603152192035513070
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_8
+  - first:
+      213: 1589800343509359547
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_9
+  - first:
+      213: -6547791762165597430
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_10
+  - first:
+      213: 7452662703371792220
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_11
+  - first:
+      213: -3558313024178238523
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_12
+  - first:
+      213: -3801136063878057544
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_13
+  - first:
+      213: -7907448281096691533
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_14
+  - first:
+      213: -8415982194218468064
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_15
+  - first:
+      213: 4675745927430347896
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_16
+  - first:
+      213: -925841579669716303
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_17
+  - first:
+      213: -7747948760188459048
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_18
+  - first:
+      213: 4220394159110277122
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_19
+  - first:
+      213: -5698271989682722480
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_20
+  - first:
+      213: -2634102756379636725
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_21
+  - first:
+      213: 4053843005252127332
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_22
+  - first:
+      213: -364613528041271024
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_23
+  - first:
+      213: -5572836723050222223
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_24
+  - first:
+      213: 4848333757176319872
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_25
+  - first:
+      213: 2932883436895884345
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_26
+  - first:
+      213: -6034070379169515893
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_27
+  - first:
+      213: 5673946464148798039
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_28
+  - first:
+      213: 1063330237898367406
+    second: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 371
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f5c58c265af7fd0800000000000000
+      internalID: -2341971437522493622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 371
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a54e1e713a9880800000000000000
+      internalID: -8603509720394389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 371
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e43aba480d20a0c0800000000000000
+      internalID: -4566600508516977439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752f82cd54abcc7f0800000000000000
+      internalID: -590892641883196841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 373
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3764afa777de10800000000000000
+      internalID: 2222376537391840298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 371
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d71c01252f0f640800000000000000
+      internalID: 5111852011347869049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 271
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ec4d913a4cac70800000000000000
+      internalID: 8983636933650212476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 271
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12289d1a4d51e2c0800000000000000
+      internalID: -4404136387686161889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 271
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26abc5b3562cd40800000000000000
+      internalID: 5603152192035513070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 278
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5ba24dfa101610800000000000000
+      internalID: 1589800343509359547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 271
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf3e085129125a0800000000000000
+      internalID: -6547791762165597430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 281
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f27492e3d2d6760800000000000000
+      internalID: 7452662703371792220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 181
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc53248255e9ec0800000000000000
+      internalID: -3558313024178238523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 178
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13f91a3e6af3bc0800000000000000
+      internalID: -3801136063878057544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 178
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0657d0fa9134290800000000000000
+      internalID: -7907448281096691533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 183
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d789db8cc643b80800000000000000
+      internalID: -8415982194218468064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_16
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 187
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c1778d52693e040800000000000000
+      internalID: 4675745927430347896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 171
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b200851dffb623f0800000000000000
+      internalID: -925841579669716303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 93
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e90b27a1c97490800000000000000
+      internalID: -7747948760188459048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 71
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c6e9802ad19a30800000000000000
+      internalID: 4220394159110277122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059276de0dbabe0b0800000000000000
+      internalID: -5698271989682722480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c4d18cf79c17bd0800000000000000
+      internalID: -2634102756379636725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a414f2cb4224830800000000000000
+      internalID: 4053843005252127332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-linear-fast-food-icons-food-drink-icons-simple-design_115464-377_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 95
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115cc49de1a0faf0800000000000000
+      internalID: -364613528041271024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 919a027562d22d647b992c780593a51e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
